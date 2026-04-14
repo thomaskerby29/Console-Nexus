@@ -49,3 +49,6 @@ Below is the initial development roadmap focused on Xenia support.
 - [ ] Game launching
 - [ ] Game management
 - [ ] Config editor
+
+---
+<a href="https://www.flaticon.com/free-icons/gaming" title="gaming icons">Gaming icons created by Pop Vectors - Flaticon</a>
