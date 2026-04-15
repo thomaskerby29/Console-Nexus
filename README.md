@@ -34,6 +34,7 @@ Until v1.0.0 these features are all just planned. See the roadmap below to see p
 ## Tech Stack
 - [Python](https://www.python.org) 3.11.6
 - [PySide6](https://doc.qt.io/qtforpython-6/)
+- [PyGithub](https://github.com/PyGithub/PyGithub)
 
 ## Roadmap
 Below is the initial development roadmap focused on Xenia support.
